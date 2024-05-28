@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_object{
+    color: red;
+}
+#Camera{
+    border: 2px dashed black;
+    width: 300px;
+    height: 300px;
+}
